@@ -1,0 +1,5 @@
+obj/
+list/
+*.fw
+*.uvgu*
+*.uvop*

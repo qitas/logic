@@ -7,6 +7,8 @@
 
 * [software](software/) 
 * [firmware](firmware/) 
+    * [make](firmware/make) 
+    * [keil](firmware/keil) 
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
 ## 锻造最美之器
