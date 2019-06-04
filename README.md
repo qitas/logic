@@ -1,28 +1,12 @@
-﻿# [logic](https://github.com/qitas/logic) 
-
+﻿# [Logic 逻辑分析仪](https://github.com/qitas/logic) 
 ### qitas@qitas.cn
 
----
+## [logic简介](https://github.com/qitas/logic/wiki)
 
-## [简介](https://github.com/qitas/logic/wiki)
+逻辑分析仪集成代码，包括设备的固件和上位机软件
 
-利用开源资源搭建测试仪器的基础工程
-
-
-## 组成
-
-####  [DS](/DS) 
-
-系统固件
-
-####  [dev](/dev) 
-
-设备代码
-
----
-
-
-## 锻造最美之器
+* [software](software/) 
+* [firmware](firmware/) 
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
-
+## 锻造最美之器
